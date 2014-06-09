@@ -1,5 +1,6 @@
 {
   "files": [
     "chapter.html"
-  ]
+  ],
+  "theme": "oreillyatlas/marketing-theme"
 }
