@@ -1,7 +1,8 @@
 {
   "branch": "master",
   "files": [
-    "ilya_case_study.html"
+    "ilya_case_study.html",
+    "production_case_study.html"
   ],
   "formats": {
     "pdf": {
