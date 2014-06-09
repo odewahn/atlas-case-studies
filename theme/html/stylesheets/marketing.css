@@ -1,0 +1,58 @@
+.navbar .nav > li {
+  display: none;
+}
+
+.navbar .nav > li:last-child {
+  display: block;
+}
+
+.btn {
+  background-color: $red;
+  color: white;
+  border: none;
+  box-sizing: border-box;
+  width: 80%;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+h1 {
+  font-family: "oreilly-urw-typewriter";
+  font-weight: 300;
+  color: $red;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 75px;
+  line-height: 1.1em;
+}
+
+h3#atlas-brand {
+  font-family: "oreilly-urw-typewriter";
+  color: $red;
+  font-size: 45px;
+  font-weight: 300;
+  margin: 0;
+  margin-top: 15px;
+  letter-spacing: -2px;
+}
+
+/* Responsive Queries
+---------------------------------------------------- */
+
+@media (min-width: 400px) {
+  
+}
+
+@media (min-width: 650px) {
+
+}
+
+@media (min-width: 767px) {
+
+}
+
+@media (min-width: 980px) {
+  
+}
