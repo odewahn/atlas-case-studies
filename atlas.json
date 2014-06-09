@@ -1,5 +1,28 @@
 {
+  "branch": "master",
   "files": [
-    "chapter.html"
-  ]
+    "ilya_case_study.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": false,
+      "index": false,
+      "toc": false
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
+    "html": {
+      "index": false,
+      "toc": false
+    }
+  },
+  "theme": "",
+  "title": "atlas marketing material"
 }
